@@ -1,0 +1,240 @@
+@media (max-width: 600px) {
+    .anime section h3 {
+        font-size: 32px;
+    }
+    .anime section h1 {
+        font-size: 42px;
+    }
+    .mainpage h3, .rating-section h3 {
+        width: 80%;
+        font-size: 30px;
+    }
+    .card {
+        flex-direction: row;
+    }
+    #card {
+        width: 165px;
+        margin-bottom: 16px;
+    }
+    .card img {
+        height: 180px;
+    }
+    .card h3 {
+        margin: 8px 10px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .card p {
+        margin: 0px 10px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .card #viewall-btn {
+        margin: 12px 10px;
+        padding: 6px 10px;
+        font-size: 12.5px;
+        width: 88%;
+    }
+    .col-md-7 {
+        margin-top: -27%;
+    }
+    .dropdown {
+        width: 50%;
+        margin-left: 0px;
+        margin-top: 8px;
+    }
+    .dropdown li {
+        height: 35px;
+        line-height: 35px;
+    }
+    .footer-links ul li a {
+        color: #999;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .footer-links #list_1 {
+        font-size: 17px;
+        font-weight: normal;
+    }
+    .footer-links li {
+        font-size: 1px;
+    }
+    .footer-links-2 ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .copyright_section {
+        font-size: 12px;
+    }
+    .col-md-7 {
+        margin-top: 2%;
+        margin-bottom: 8px;
+    }
+	.header-fixed {
+		padding: 20px 0;
+		height: 75px;
+		bottom: 100px;
+	}
+	.pad-all-page {
+	    margin-top: 75px;
+	}
+    .header-fixed .header-limiter h1 {
+	    float: none;
+	    margin: -8px 0 10px;
+		text-align: center;
+		font-size: 24px;
+		line-height: 1;
+	}
+	.header-fixed .header-limiter nav {
+		line-height: 1;
+		float: none;
+	}
+	.header-fixed .header-limiter nav a {
+		font-size: 13px;
+	}
+	body.fixed .header-fixed {
+		display: none;
+	}
+	.timeline ul li {
+        margin-left:20px;
+    }
+    .timeline ul li div {
+        width: calc(100vw - 91px);
+    }
+    .timeline ul li:nth-child(even) div {
+        left: 45px;
+    }
+    .timeline ul li:nth-child(even) div::before {
+        left: -15px;
+        border-width: 8px 16px 8px 0;
+        border-color: transparent #f0f1ff transparent transparent;
+    }
+    .lightSlider img {
+        display: block;
+        height: 170px;
+        width: 100%;
+    }
+    .about span {
+        font-weight: 500;
+        font-size: 15px;
+        color: #343a40;
+        transition: 0.3s ease;
+    }
+    .about span:hover {
+        color: #1abc9c;
+    }
+    .about div {
+        display: flex;
+        align-items: center;
+    }
+    .about h5 {
+        font-size: 14px;
+        margin-top: 8px;
+        padding: 6px 6px 6px 0px;
+        color: #7f7f7f;
+        font-weight: 500;
+    }
+    .about h4 {
+        font-size: 16.5px;
+        color: #343a40;
+        padding: 6px;
+        margin-top: 8px;
+        border-left: 1px dotted #ccc;
+    }
+    .about #homeDelivery {
+        color: #1abc9c;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+    }
+    .about #saveOffer {
+        color: red;
+    }
+    #saveOffer:hover {
+        text-decoration: underline;
+    }
+    .mt-2 {
+        color: #343a40;
+    }
+    .new_form {
+        width: 90%;
+    }
+}
+
+@media (max-width: 850px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+    .contact-info:before {
+        bottom: initial;
+        top: -75px;
+        right: 65px;
+        transform: scale(0.95);
+    }
+    .contact-form:before {
+        top: -13px;
+        left: initial;
+        right: 70px;
+    }
+    .square {
+        transform: translate(140%, 43%);
+        height: 350px;
+    }
+    .big-circle {
+        bottom: 75%;
+        transform: scale(0.9) translate(-40%, 30%);
+        right: 50%;
+    }
+    .text {
+        margin: 1rem 0 1.5rem 0;
+    }
+    .social-media {
+        padding: 1.5rem 0 0 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 1.5rem;
+    }
+    .contact-info:before {
+        display: none;
+    }
+    .square,
+    .big-circle {
+        display: none;
+    }
+    form,
+    .contact-info {
+        padding: 1.7rem 1.6rem;
+    }
+    .text,
+    .information,
+    .social-media p {
+        font-size: 0.8rem;
+    }
+    .title {
+        font-size: 1.15rem;
+    }
+    .social-icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .icon {
+        width: 23px;
+    }
+    #input {
+        padding: 0.45rem 1.2rem;
+    }
+    .btn {
+        padding: 0.45rem 1.2rem;
+    }
+}
+
+@media (max-width: 786px) {
+    .projectFactsWrap .item {
+        flex: 0 0 50%;
+    }
+}
