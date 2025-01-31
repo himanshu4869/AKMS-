@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [https://himcoderz.github.io/akms/](https://himcoderz.github.io/akms/)
 
-- 👨‍💻 All of my projects are available at [https://himcoderz.github.com/himcoderz/](https://himcoderz.github.com/himcoderz/)
+- 👨‍💻 All of my projects are available at [https://github.com/himcoderz/](https://github.com/himcoderz/)
 
 - 💬 Ask me about **Html, Css, JavaScript, jQuery**
 
