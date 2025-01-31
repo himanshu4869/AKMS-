@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu4869&label=Profile%20views&color=0e75b6&style=flat" alt="himcoderz" /> </p>
 
-- 🔭 I’m currently working on **AKMS Healthcare Pvt Ltd**
+- 🔭 I’m currently working on **Him Coderz**
 
 - 🌱 I’m currently learning **Backend Languages**
 
-- 👯 I’m looking to collaborate on [https://himcoderz.github.io/AKMS-/](https://himcoderz.github.io/AKMS-/)
+- 👯 I’m looking to collaborate on [https://himcoderz.github.io/akms/](https://himcoderz.github.io/akms/)
 
-- 👨‍💻 All of my projects are available at [https://himcoderz.github.io/AKMS-/](https://himcoderz.github.io/AKMS-/)
+- 👨‍💻 All of my projects are available at [https://himcoderz.github.io/akms/](https://himcoderz.github.io/akms/)
 
 - 💬 Ask me about **Html, Css, JavaScript, jQuery**
 
